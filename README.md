@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anastasiabespalova
-- 🌱 I’m currently learning iOS Development
+- 🌱 I’m currently learning iOS Apps Development
 - 📫 How to reach me: please contact a.p.bespalova@gmail.com
 
 <!---
